@@ -1,0 +1,45 @@
+/* Traveler Times style sheet*/
+
+body {
+    font-family: "Verdana","Geneva", sans-serif;
+    font-size: 12pt;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    font-size: 1.8em;
+    text-align: center
+}
+
+h2, h3 {
+    background-color: #336699;
+    color: white;
+}
+
+a {
+    color:#151B54;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ol, ul {
+    background-color: #cccccc;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+p {
+    text-align: left;
+    text-indent: 2em;
+}
+
+#dublinbeer {
+    font-style: italic;
+}
+
+.figure {
+    text-align: center;
+}
