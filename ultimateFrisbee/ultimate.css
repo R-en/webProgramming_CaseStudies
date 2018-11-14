@@ -1,0 +1,80 @@
+body {
+    font: 12pt "Tahoma", "Arial", sans-serif;
+}
+
+/*  announcement css starts*/
+.announcements {
+    background-color: #0000cc;
+    color: white;
+}
+
+#announcements {
+    margin-left: 8em;
+    padding: 0em 1em;
+}
+
+#announcements h2{
+    border-bottom: 2px solid black;
+    clear: right;
+}
+
+#announcements img {
+    float: right;
+    margin-left: 2em;
+}
+
+/*  announcement css ends*/
+
+
+/*  calender css starts*/
+#calender {
+    background-color: #00eeee;
+    border:2px solid black;
+    line-height: 1.5em;
+    position: fixed;
+    right: 1em;
+    top: 1em;
+    width: 8em;
+}
+
+#calender ul{
+    padding-left: 2em;
+}
+
+/*The word - College*/
+.firstword {
+    font-size: 32pt;
+}
+
+h1 {
+    margin: 0em 0em 0.5em 0em;
+    text-align: center;
+}
+
+#main{
+    background-color: #ddffdd;
+    border: 22px solid black;
+    margin-right: 10em;
+}
+
+/*  news css starts*/
+
+#news {
+    font-size: smaller;
+    float: left;
+    margin-left: 1em;
+    width: 8em;
+}
+
+#news > ul {
+    list-style-type: none;
+    padding-left: 0em;
+}
+
+#news li {
+    background-color: #ffffcc;
+    border: 3px solid #ffff88;
+    margin-bottom: 1em;
+    padding: 1em;
+}
+/*  news css ends*/
