@@ -7,4 +7,8 @@ Case 1: Traveler Times
 Case 2: Ultimate Frisbee
 ![](images/case2_UltimateFrisbee.PNG)
 
+Case 3: Word of the Day
+![](images/case3_count.PNG)
+![](images/case3_word.PNG)
+
 Date:11/7/2018
