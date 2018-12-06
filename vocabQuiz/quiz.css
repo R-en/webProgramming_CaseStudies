@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+    font-family: Garamond, serif;
+    font-size: 14pt;
+}
+
+.correct{color: #00aa00;}
+.incorrect{color: #aa0000;}
+
+div {text-align: center;}
+h1 {margin-top: 0em;}
+
+h4 {
+    font-size: 20pt;
+    margin-bottom: 0em;
+    margin-top: 2em;
+}
+
+input[type="submit"]{
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+ul#choices {
+    list-style-type: lower-alpha;
+}
+
+ul#choices li {
+    font-size:  14pt;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+}

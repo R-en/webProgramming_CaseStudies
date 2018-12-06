@@ -11,4 +11,7 @@ Case 3: Word of the Day
 ![](images/case3_count.PNG)
 ![](images/case3_word.PNG)
 
+Case 4 : Vocal Quiz
+![](images/case4_vocalQuiz.PNG)
+
 Date:11/7/2018
