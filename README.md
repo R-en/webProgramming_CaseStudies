@@ -14,4 +14,7 @@ Case 3: Word of the Day
 Case 4 : Vocal Quiz
 ![](images/case4_vocalQuiz.PNG)
 
-Date:11/7/2018
+Case 5 : Hangman
+![](images/case5_hangman.PNG)
+
+Date:12/12/2018
