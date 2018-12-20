@@ -17,4 +17,7 @@ Case 4 : Vocal Quiz
 Case 5 : Hangman
 ![](images/case5_hangman.PNG)
 
+Case 6 : Colored Square
+![](images/case6_ColoredSquares.PNG)
+
 Date:12/12/2018
